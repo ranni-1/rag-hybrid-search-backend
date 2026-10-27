@@ -1,0 +1,12 @@
+run,Recall@5,MRR
+bm25_only,0.3333,0.3333
+
+run,Recall@5,MRR
+bm25_only,0.3333,0.3333
+dense_only,0.5000,0.6667
+
+
+run,Recall@5,MRR
+bm25_only,0.3333,0.3333
+dense_only,0.5000,0.6667
+hybrid_rrf_k10,0.8333,0.6667
